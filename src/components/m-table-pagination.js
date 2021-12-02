@@ -162,8 +162,8 @@ MTablePaginationInner.defaultProps = {
   localization: {
     firstTooltip: "First Page",
     previousTooltip: "Previous Page",
-    nextTooltip: "Next Page",
-    lastTooltip: "Last Page",
+    nextTooltip: "Trang sau",
+    lastTooltip: "Trang trước",
     labelDisplayedRows: "{from}-{to} of {count}",
     labelRowsPerPage: "Rows per page:",
   },
